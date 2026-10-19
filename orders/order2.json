@@ -1,0 +1,16 @@
+{
+  "customer": {
+    "firstname": "Anna",
+    "lastname": "Nowak",
+    "email": "anna.nowak@gmail.com",
+    "phone": "234567891"
+  },
+  "products": [
+    {
+      "code": "P-04",
+      "quantity": 1,
+      "unit": "szt"
+    }
+  ]
+}
+

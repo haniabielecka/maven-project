@@ -1,0 +1,25 @@
+{
+  "customer": {
+    "firstname": "Jan",
+    "lastname": "Kowalski",
+    "email": "jan.kowalski@gmail.com",
+    "phone": "123456789"
+  },
+  "products": [
+    {
+      "code": "P-01",
+      "quantity": 5,
+      "unit": "szt"
+    },
+    {
+      "code": "P-02",
+      "quantity": 2.5,
+      "unit": "kg"
+    },
+    {
+      "code": "P-03",
+      "quantity": 10,
+      "unit": "m"
+    }
+  ]
+}
